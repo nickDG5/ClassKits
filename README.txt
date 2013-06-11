@@ -1,8 +1,8 @@
-ClassKitsSPEED
+ClassKits
 
 Sveiki, taigi dalinuosi savo pirmu sukurtu plugin'u, kuris pritaikytas PvP serveriams. Kol kas šis plugin'as neturi konfigūracijos failų, kuriose galėtumėte pasikeisti klases ir t. t. Norint sužinoti klases, rašykite komandą /classkits. Taip pat pamiršau, norint, kad žaidėjai galėtų naudotis classkits komandą turi įterpti leidimą classkits.help.
 
-Lankininkas
+--- Lankininkas ---
 
 Komanda: /lankininkas
 
@@ -16,7 +16,7 @@ Jums bus suteikta:
 
 # Lankas ir strėlės
 
-Magas
+--- Magas ---
 
 Komanda: /magas
 
@@ -32,7 +32,7 @@ Jums bus suteikta:
 
 # Galia 2 buteliukai
 
-Karys
+--- Karys ---
 
 Komanda: /karys
 
@@ -44,7 +44,7 @@ Jums bus suteikta:
 
 # Deimantinis kardas
 
-Snipas
+--- Snipas ---
 
 Komanda: /snipas
 
