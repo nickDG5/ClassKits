@@ -1,6 +1,6 @@
 ClassKits
 
-Sveiki, taigi dalinuosi savo pirmu sukurtu plugin'u, kuris pritaikytas PvP serveriams. Kol kas šis plugin'as neturi konfigūracijos failų, kuriose galėtumėte pasikeisti klases ir t. t. Norint sužinoti klases, rašykite komandą /classkits. Taip pat pamiršau, norint, kad žaidėjai galėtų naudotis classkits komandą turi įterpti leidimą classkits.help.
+
 
 --- Lankininkas ---
 
